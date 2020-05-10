@@ -12,7 +12,6 @@ void ordenar(int A[], int tam){
 		}	
 }
 
-
 int main()
 {   int A[]={0,2,1,4,3,1,7,8,9};
     int tam=9;
