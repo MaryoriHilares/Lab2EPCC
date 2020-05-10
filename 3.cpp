@@ -17,7 +17,6 @@ int main()
 {   int A[]={0,2,1,4,3,1,7,8,9};
     int tam=9;
     int suma=0;
-   // invertir(A,tam);
     ordenar(A,tam);
     for(int i=0;i<tam;i++)
     cout<<A[i]<<" ";
