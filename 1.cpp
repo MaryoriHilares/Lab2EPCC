@@ -21,7 +21,6 @@ int sumaEl(int A[], int tam){
 int main()
 {   int A[]={7,3,1,6,7,1,7,6,5};
     int tam=9;
-//    int suma=0;
     cout<<sumaElementos(A,tam)<<endl;
 	cout<<sumaEl(A,tam)<<endl;
 	return 0;
