@@ -17,6 +17,7 @@ int tamdeCadenaR(char cad[])
  }
  return tam-1;
 }
+
 int main(){
 	char palabra[]="dimeunapalabramasdificil";
 	cout<<tamdeCadena(palabra)<<endl;
