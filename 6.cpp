@@ -7,6 +7,7 @@ void copiarCad(char a[],char b[])
 	for(int i=0;i < strlen(a) ; ++i) 
 	        b[i]=a[i];
 }
+
 int main(){
 	char a[]=" mundo XD";
 	char b[]="Hola";
