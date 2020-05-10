@@ -24,4 +24,4 @@ int main()
     cout<<sumaElementos(A,tam)<<endl;
 	cout<<sumaEl(A,tam)<<endl;
 	return 0;
-}
+} 
