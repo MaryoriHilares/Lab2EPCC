@@ -24,4 +24,4 @@ int main()
     for(int i=0;i<tam;i++)
       cout<<A[i]<<" ";
 	return 0;
-}
+} 
